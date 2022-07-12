@@ -1,0 +1,21 @@
+h1{
+    font-family: sans-serif;
+    font-size: 30px;
+    color: chocolate;
+    font-style: italic;
+    text-align: center;
+    text-transform: uppercase;
+}
+table{
+    text-transform: capitalize;
+    font-size: medium;
+    font-family: sans-serif;
+    font-style: normal;
+    color: blueviolet;
+    background-color: rgb(190, 184, 177);
+    border: 5px dashed;
+    font-weight: bold;
+}
+body { 
+    background-color: rgb(149, 155, 139);
+}
